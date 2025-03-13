@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1 Score
+DecisionTree,1.0,1.0,1.0,1.0
+KNN,1.0,1.0,1.0,1.0
+RandomForest,1.0,1.0,1.0,1.0
+GradientBoosting,1.0,1.0,1.0,1.0
+LogisticRegression,0.7406672678088367,0.7288969940055592,0.7406672678088367,0.7301342080316012
